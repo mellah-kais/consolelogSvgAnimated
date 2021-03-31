@@ -1,0 +1,18 @@
+<svg width="120" height="100" viewBox="0 0 120 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="120" height="100" fill="#E5E5E5"/>
+<g id="Frame 1" clip-path="url(#clip0)">
+<rect width="120" height="100" fill="white"/>
+<g id="darkGroup">
+<path id="dark2" d="M76.5 45.9019C78.5 47.0566 78.5 49.9434 76.5 51.0981L45.75 68.8516C43.75 70.0063 41.25 68.5629 41.25 66.2535V30.7465C41.25 28.4371 43.75 26.9937 45.75 28.1484L76.5 45.9019Z" fill="#77BABE" fill-opacity="0.8"/>
+<path id="dark1" d="M47.5 45.9019C49.5 47.0566 49.5 49.9434 47.5 51.0981L16.75 68.8516C14.75 70.0063 12.25 68.5629 12.25 66.2535V30.7465C12.25 28.4371 14.75 26.9937 16.75 28.1484L47.5 45.9019Z" fill="#4E919F" fill-opacity="0.8"/>
+</g>
+<g id="lightGroup">
+<path id="origin" d="M47.5 45.9019C49.5 47.0566 49.5 49.9434 47.5 51.0981L16.75 68.8516C14.75 70.0063 12.25 68.5629 12.25 66.2535V30.7465C12.25 28.4371 14.75 26.9937 16.75 28.1484L47.5 45.9019Z" fill="#2C8F89" fill-opacity="0.8"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="120" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>
